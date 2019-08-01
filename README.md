@@ -1,2 +1,0 @@
-# JogoNumero
-Created with CodeSandbox
